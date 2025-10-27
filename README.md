@@ -16,8 +16,8 @@
 - [Cybercrime Incident Management System](https://github.com/ziomega/Cybercrime-Incident-Management-and-Awareness-System)
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ziomega&show_icons=true&theme=radical&cache_seconds=1800&v=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziomega&layout=compact&theme=radical&cache_seconds=1800&v=1)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ziomega&show_icons=true&theme=radical&cache_seconds=1800&v=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziomega&layout=compact&theme=radical&cache_seconds=1800&v=2)
 
 ### 📫 Reach Me At
 - [LinkedIn](https://www.linkedin.com/in/evaan-antony-philip-b90421291/)
